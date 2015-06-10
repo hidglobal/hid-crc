@@ -1,5 +1,5 @@
 {
-  "name": "crc",
+  "name": "Hidglobalcrc",
   "version": "3.3.0",
   "description": "Various CRC JavaScript implementations",
   "keywords": [
@@ -11,8 +11,8 @@
     "pretest": "coffee --bare --output ./lib --compile ./src/*.coffee"
   },
   "author": {
-    "name": "Alex Gorbatchev",
-    "url": "https://github.com/alexgorbatchev"
+    "name": "Tom Stephens"
+
   },
   "devDependencies": {
     "beautify-benchmark": "^0.2.4",
@@ -24,11 +24,11 @@
     "mocha": "*",
     "seedrandom": "^2.3.6"
   },
-  "homepage": "https://github.com/alexgorbatchev/node-crc",
-  "bugs": "https://github.com/alexgorbatchev/node-crc/issues",
+  "homepage": "https://github.com/hidglobal/node-crc",
+  "bugs": "https://github.com/hidglobal/node-crc/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/alexgorbatchev/node-crc.git"
+    "url": "https://github.com/hidglobal/node-crc.git"
   },
   "license": "MIT"
 }
